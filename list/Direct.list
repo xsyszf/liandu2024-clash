@@ -2,6 +2,26 @@
 
 # MyList
 # 域名后缀匹配
+#潇洒自定义
+DOMAIN-SUFFIX,eycard.cn
+DOMAIN-SUFFIX,bhecard.com
+DOMAIN-SUFFIX,easypay.com.cn
+DOMAIN-SUFFIX,italent.cn
+DOMAIN-SUFFIX,ipcac.org.cn
+DOMAIN-SUFFIX,sdb.com.cn
+DOMAIN-SUFFIX,boluopay.cn
+DOMAIN-SUFFIX,unimarspay.com
+
+DOMAIN-KEYWORD,eycard
+DOMAIN-KEYWORD,bhecard
+DOMAIN-KEYWORD,easypay
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,xskj
+DOMAIN-KEYWORD,myxskj
+DOMAIN-KEYWORD,xsvip
+DOMAIN-KEYWORD,cnvip
+DOMAIN-KEYWORD,xskjvip
+
 DOMAIN-SUFFIX,whtjdasha.com
 DOMAIN-SUFFIX,chybinc.com
 DOMAIN-SUFFIX,gfw.gg
