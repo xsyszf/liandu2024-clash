@@ -2,7 +2,7 @@
 
 # MyList
 # 域名后缀匹配
-#潇洒自定义
+# 潇洒自定义
 DOMAIN-SUFFIX,eycard.cn
 DOMAIN-SUFFIX,bhecard.com
 DOMAIN-SUFFIX,easypay.com.cn
@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,sdb.com.cn
 DOMAIN-SUFFIX,boluopay.cn
 DOMAIN-SUFFIX,unimarspay.com
 
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,eycard
 DOMAIN-KEYWORD,bhecard
 DOMAIN-KEYWORD,easypay
@@ -124,9 +126,6 @@ DOMAIN-SUFFIX,izenny.com
 DOMAIN-SUFFIX,1yuan.sbs
 DOMAIN-SUFFIX,maocf1.top
 DOMAIN-SUFFIX,sevenka.top
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
